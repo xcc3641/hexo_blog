@@ -114,7 +114,7 @@ marked:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/xcc3641/xcc3641.github.io
+  repository: git@github.com:xcc3641/xcc3641.github.io.git
   branch: master
 
 duoshuo_shortname: IMXIE
