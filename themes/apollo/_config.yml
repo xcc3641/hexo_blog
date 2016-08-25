@@ -1,0 +1,20 @@
+menu:
+    Blog: /
+    Archive: /archives/
+    GitHub: https://github.com/xcc3641
+    About: /about/
+
+favicon: /favicon.ico
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo: imxie
+
+# Analytics
+# google-analytics:
+ga: UA-80145821-1
+
+# Copyright Infomation
+startyear: 2014
