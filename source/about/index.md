@@ -9,7 +9,9 @@ coverCaption: "Future"
 > Hi，
 我是 Google 粉 / Android 开发 / 女神 Gakki / 钢炼入宅
 特别喜欢 3 这个数字 / 所以会有人 三哥/三弟 称呼
-随意/简单 就好 / 我们相互学习
+随意/简单 就好 / 我们相互学习 / 随意联系
+
+> 目前我是 2017届毕业生（应届生），正在找工作。如果需要，可以看我的在线 __[简历](http://imxie.cc/resume/)__。
 
 >IMXIE
 
@@ -27,8 +29,8 @@ coverCaption: "Future"
 
 ### 我的朋友
 
-- [Brucezz](http://brucezz.github.io/)
 - [Joe](https://joesteven.github.io/)
+- [Brucezz](http://brucezz.github.io/)
 - [写代码的猴子](http://laobie.github.io/)
 
 
