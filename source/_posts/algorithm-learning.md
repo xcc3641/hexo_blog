@@ -29,6 +29,7 @@ date: 2016-05-17 19:15:57
 	- [在 O(1) 时间删除链表结点](#在-o1-时间删除链表结点)
 	- [调整数组顺序使奇数位于偶数前面](#调整数组顺序使奇数位于偶数前面)
 	- [链表中倒数第k个结点](#链表中倒数第k个结点)
+	- [逆序链表](#逆序链表)
 	- [反转链表](#反转链表)
 	- [合并两个有序链表形成一个有序链表](#合并两个有序链表形成一个有序链表)
 - [高质量代码](#高质量代码)
@@ -301,7 +302,36 @@ public static void deletNode(Node head, Node target) {
     }
 ```
 
+#### 逆序链表
+> 输入一个链表的头结点，从尾到头打印每个结点的值
 
+最开始我很容易想到是用栈。
+```java
+public static void printListFromTailToHead(ListNode listNode) {
+	if (listNode == null) return;
+	Stack<Integer> stack = new Stack<Integer>();
+	// 尾巴就是 node.next == null
+	while (listNode != null) {
+		stack.push(listNode.val);
+		listNode = listNode.next;
+	}
+	while (!stack.isEmpty()) {
+		System.out.println(stack.pop());
+	}
+}
+```
+后来想了下，递归的本质就是栈的结构，所以可以用递归来：
+```java
+static void printListFromTailToHead2(ListNode listNode){
+	// 递归的方式
+	if (listNode!=null){
+		if (listNode.next!=null){
+			printListFromTailToHead2(listNode.next);
+		}
+	}
+	System.out.println(listNode.val);
+}
+```
 
 #### 反转链表
 

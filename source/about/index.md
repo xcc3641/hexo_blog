@@ -13,7 +13,7 @@ coverCaption: "Future"
 
 > 目前我是 2017届毕业生（应届生），正在找工作。如果需要，可以看我的在线 __[简历](http://imxie.cc/resume/)__。
 
->IMXIE
+> 这里有为应届生整理的各大公司的[校招网站直链](/offer)
 
 ---
 
@@ -24,7 +24,7 @@ coverCaption: "Future"
 
 ### 组织
 
-- [ItsCoder](http://www.itscoder.com/) 
+- [ItsCoder](http://www.itscoder.com/)
     我们一起在做一件值得的事情。
 
 ### 我的朋友
@@ -38,6 +38,3 @@ coverCaption: "Future"
 - Weibo: [谢晨成不发微博](http://weibo.com/2709138722)
 - Github: [IMXIE](https://github.com/xcc3641)
 - Email : [Hugo3641@gmail.com](mailto:Hogo3641@gmail.com)
-
-
-
