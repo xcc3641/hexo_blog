@@ -205,7 +205,7 @@ protected void onLayout(boolean changed, int left, int top, int right, int botto
      */
     public void setText(String content) {
         if (content == null) {
-            throw new NullPointerException("字符串内容不能为空");
+            content=" ";
         }
         this.text = String.valueOf(content.toCharArray()[0]);
         this.text = text.toUpperCase();

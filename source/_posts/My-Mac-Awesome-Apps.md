@@ -66,4 +66,10 @@ Android 开发必备。
 
 ![](http://ww1.sinaimg.cn/large/7853084cgw1f81kdbea01j21kw17ajy9.jpg)
 
+8. Vysor
+
+Chrome 插件，很方便展示手机上的内容。
+
+- [修改最新版协议方法](http://www.itdadao.com/articles/c15a508725p0.html)
+  ![](http://ww3.sinaimg.cn/large/65e4f1e6gw1f8ssnm4jiej20v01iyn2b.jpg)
 ####
