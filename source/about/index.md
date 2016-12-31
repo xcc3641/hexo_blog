@@ -1,4 +1,4 @@
-title: "IMXIE"
+title: "很高兴遇到你"
 clearReading: true
 coverMeta: out
 coverImage: http://ww1.sinaimg.cn/large/a17a2d22gw1f55knzpedfj21jk111tjy.jpg
@@ -35,3 +35,7 @@ coverCaption: "Future"
 - Weibo: [谢晨成不发微博](http://weibo.com/2709138722)
 - Github: [IMXIE](https://github.com/xcc3641)
 - Email : [Hugo3641@gmail.com](mailto:Hogo3641@gmail.com)
+
+### 推广
+
+推荐科学上网：[地址（自用）](http://t.cn/Rf1eSnH)
