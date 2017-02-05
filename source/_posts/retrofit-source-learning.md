@@ -1,4 +1,4 @@
-title: 框架源码 — 可能会有趣一点地简析学习 Retrofit 
+title: 框架源码 — 简析学习 Retrofit 
 date: 2016-08-20 17:03:37
 ---
 
