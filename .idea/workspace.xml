@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92763115-f22d-4659-bd66-ccdc368332e5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Activity-lifecycle-launchmode.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Activity-lifecycle-launchmode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android-New-Day-Night-Swtich.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Android-New-Day-Night-Swtich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android-Studio-Mac-闪屏解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Android-Studio-Mac-闪屏解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android-studio-插件.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Android-studio-插件.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android6.0-permissions-part-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Android6.0-permissions-part-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android6.0-permissions-part-2.md.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Android6.0-permissions-part-2.md.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Gifts-for-designers.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Gifts-for-designers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Intern-life-in-SH.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Intern-life-in-SH.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/My-Mac-Awesome-Apps.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/My-Mac-Awesome-Apps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Review-Java-Thread-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Review-Java-Thread-1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Review-Java-Thread-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Review-Java-Thread-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Review-the-Java-basic-equals-hashcode.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Review-the-Java-basic-equals-hashcode.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/RxJava-Retrofit-的实际应用场景.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/RxJava-Retrofit-的实际应用场景.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/RxJava_for_fresh_learning.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/RxJava_for_fresh_learning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/SharedPreferences-Util.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/SharedPreferences-Util.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Sketch-learning-as-android.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Sketch-learning-as-android.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Update-Ruby-With-RVM-About-Brew-Error.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/Update-Ruby-With-RVM-About-Brew-Error.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/algorithm-learning.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/algorithm-learning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/deep-into-handler-source.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/deep-into-handler-source.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/deep-understanding-of-RxBus.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/deep-understanding-of-RxBus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/how_the_rxjava_thread_work.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/how_the_rxjava_thread_work.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/how_to_upload_your_project_to_jitpack.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/how_to_upload_your_project_to_jitpack.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/jike_Immersive_project.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/jike_Immersive_project.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/let-s-practise-custom-view.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/let-s-practise-custom-view.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/let-s-talk-about-callback.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/let-s-talk-about-callback.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/python-初探-leancloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/python-初探-leancloud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/retrofit-source-learning.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/retrofit-source-learning.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/shap.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/shap.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/tao-lun-Rx-onError.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/tao-lun-Rx-onError.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/the_end_of_2016.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/the_end_of_2016.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【校对】世界级Android测试开发流程(二).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/【校对】世界级Android测试开发流程(二).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【校对】世界级Android测试开发流程（一）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/【校对】世界级Android测试开发流程（一）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【自整理】Android开发中的Tips.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/【自整理】Android开发中的Tips.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】RxBus-的简单实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/【转】RxBus-的简单实现.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/为自己的App搭建自定义API接口.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/为自己的App搭建自定义API接口.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/从一个实例简单学习RecyclerView.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/从一个实例简单学习RecyclerView.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/信笺.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/信笺.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/就看天气V2-0.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/就看天气V2-0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/就看天气介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/就看天气介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/简单介绍hexo.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/简单介绍hexo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/获取一个有JS加载的网页信息.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/获取一个有JS加载的网页信息.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/跑在服务器上爬取一个的py.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/跑在服务器上爬取一个的py.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/面试问题整理Andorid版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/面试问题整理Andorid版本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/面试问题整理（Java网络版本）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/hide/面试问题整理（Java网络版本）.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/信笺.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/2014年终.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="16" selection-start-line="16" selection-end-line="17" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/the_end_of_2016.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/Intern-life-in-SH.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="13" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/source/_posts/2014年终.md" />
+        <option value="$PROJECT_DIR$/source/_posts/the_end_of_2016.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Intern-life-in-SH.md" />
+        <option value="$PROJECT_DIR$/source/_posts/信笺.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="184" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="988" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="hide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo_blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo_blog" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="apollo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts" />
+      <recent name="$PROJECT_DIR$/source/hide" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92763115-f22d-4659-bd66-ccdc368332e5" name="Default" comment="" />
+      <created>1531189790626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531189790626</updated>
+      <workItem from="1531189794326" duration="62000" />
+      <workItem from="1531189878018" duration="609000" />
+      <workItem from="1546754247764" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="45" y="23" width="1395" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496361" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32969433" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hide/deep-understanding-of-RxBus.md" />
+    <entry file="file://$PROJECT_DIR$/source/hide/跑在服务器上爬取一个的py.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/README.md" />
+    <entry file="file://$PROJECT_DIR$/themes/apollo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="241">
+            <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/wait/To-write-some-script-to-work-efficiently.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="585">
+            <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/activitylife.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hide/jike_Immersive_project.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hide/let-s-talk-about-callback.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/hide/tao-lun-Rx-onError.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/2014年终.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" selection-start-line="16" selection-end-line="17" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/the_end_of_2016.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Intern-life-in-SH.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="28" selection-start-line="28" selection-end-line="28" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/信笺.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
